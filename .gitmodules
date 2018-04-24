@@ -7,4 +7,4 @@
     branch = devel
 [submodule "opencv_contrib"]
 	path = opencv_contrib
-	url = https://github.com/opencv/opencv_contrib.git
+	url = https://github.com/booqee/opencv_contrib.git
